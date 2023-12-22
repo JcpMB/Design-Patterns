@@ -5,29 +5,7 @@ I will cover the main 3 types of patterns: Creational, Structural and Behavioura
 
 In the specific:
 
-  - Creational:
-    · Factory method
-    · Abstract factory
-    · Builder
-    · Prototype
-    · Singleton
-  - Structural:
-    · Adapter
-    · Bridge
-    · Composite
-    · Decorator
-    · Facade
-    · Flyweight
-    · Proxy
-  - Behavioural:
-    · Chain of responsability
-    · Command
-    · Iterator
-    · Mediator
-    · Memento
-    · Observer
-    · State
-    · Strategy
-    · Template method
-    · Visitor
+  - Creational: Factory method, Abstract factory, Builder, Prototype, Singleton
+  - Structural: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+  - Behavioural: Chain of responsability, Command, Iterator, Mediator, Memento, Observer, State, Strategy, Template method, Visitor
     
